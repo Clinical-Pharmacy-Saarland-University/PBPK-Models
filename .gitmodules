@@ -4,3 +4,6 @@
 [submodule "Bupropion-DDGI-Model"]
 	path = Bupropion-DDGI-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Bupropion-DDGI-Model
+[submodule "Simvastatin-DDGI-Model"]
+	path = Simvastatin-DDGI-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Simvastatin-DDGI-Model

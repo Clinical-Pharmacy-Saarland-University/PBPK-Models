@@ -1,3 +1,6 @@
 [submodule "Metoprolol-Model"]
 	path = Metoprolol-Model
 	url = https://github.com/SRuedesh/Metoprolol-Model
+[submodule "Bupropion-DDGI-Model"]
+	path = Bupropion-DDGI-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Bupropion-DDGI-Model

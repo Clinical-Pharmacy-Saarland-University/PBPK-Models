@@ -13,3 +13,9 @@
 [submodule "Risperidone-Model"]
 	path = Risperidone-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Risperidone-Model
+[submodule "Atomoxetine-Model"]
+	path = Atomoxetine-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Atomoxetine-Model
+[submodule "Paroxetine-Model"]
+	path = Paroxetine-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Paroxetine-Model

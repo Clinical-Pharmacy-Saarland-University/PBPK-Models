@@ -10,3 +10,6 @@
 [submodule "Verapamil-Norverapamil-Model"]
 	path = Verapamil-Norverapamil-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Verapamil-Norverapamil-Model
+[submodule "Risperidone-Model"]
+	path = Risperidone-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Risperidone-Model

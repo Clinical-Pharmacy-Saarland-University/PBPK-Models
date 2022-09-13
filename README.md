@@ -15,7 +15,7 @@ To access all models presented in this repo, you might need to have the [git CLI
 ## Models
 The models published by the Clinical Pharmacy Saarland University working group are listed below.
 
-| Model | OSPSuit Version | Author, Year | doi | 
+| Model | OSPSuite Version | Author, Year | doi | 
 | ---- | ---- | ------ | ---- |
 | **Atomoxetine** |[v10 (published)](https://github.com/Clinical-Pharmacy-Saarland-University/Atomoxetine-Model/tree/2691dee5898a7c0156fcc4ad9d9ce0483a1d2d42) |Rüdesheim et al. 2022 | [doi.org/10.3390/pharmaceutics14081734](https://doi.org/10.3390/pharmaceutics14081734) |
 | **Bupropion** | [v9.1 (published)](https://github.com/Clinical-Pharmacy-Saarland-University/Bupropion-DDGI-Model/tree/c1be5038071599c55549b04fcb35afd633eca81f) |Marok et al. 2021 | [doi.org/10.3390/pharmaceutics12121200](https://doi.org/10.3390/pharmaceutics12121200) |

@@ -19,3 +19,6 @@
 [submodule "Paroxetine-Model"]
 	path = Paroxetine-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Paroxetine-Model
+[submodule "Dextromethorphan-Model"]
+	path = Dextromethorphan-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Dextromethorphan-Model

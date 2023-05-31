@@ -22,3 +22,15 @@
 [submodule "Dextromethorphan-Model"]
 	path = Dextromethorphan-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Dextromethorphan-Model
+[submodule "Quinidine-DDGI-Model"]
+	path = Quinidine-DDGI-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Quinidine-DDGI-Model
+[submodule "Ketoconazole-DDI-Model"]
+	path = Ketoconazole-DDI-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Ketoconazole-DDI-Model
+[submodule "Carbamazepine-Model"]
+	path = Carbamazepine-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Carbamazepine-Model
+[submodule "Felodipine-Model"]
+	path = Felodipine-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Felodipine-Model

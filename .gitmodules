@@ -34,3 +34,6 @@
 [submodule "Felodipine-Model"]
 	path = Felodipine-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Felodipine-Model
+[submodule "Tacrolimus-DDGI-Model"]
+	path = Tacrolimus-DDGI-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Tacrolimus-DDGI-Model

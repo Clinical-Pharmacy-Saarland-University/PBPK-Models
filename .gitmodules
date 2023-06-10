@@ -37,3 +37,6 @@
 [submodule "Tacrolimus-DDGI-Model"]
 	path = Tacrolimus-DDGI-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Tacrolimus-DDGI-Model
+[submodule "Clopidogrel-DDGI-Model"]
+	path = Clopidogrel-DDGI-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Clopidogrel-DDGI-Model

@@ -43,3 +43,6 @@
 [submodule "E-clomiphene-Model"]
 	path = E-clomiphene-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/E-clomiphene-Model
+[submodule "5-FU-PBPK-Model"]
+	path = 5-FU-PBPK-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/5-FU-PBPK-Model

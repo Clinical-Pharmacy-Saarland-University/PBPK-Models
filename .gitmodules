@@ -46,3 +46,6 @@
 [submodule "5-FU-PBPK-Model"]
 	path = 5-FU-PBPK-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/5-FU-PBPK-Model
+[submodule "Imatinib-DDI-Model"]
+	path = Imatinib-DDI-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Imatinib-DDI-Model

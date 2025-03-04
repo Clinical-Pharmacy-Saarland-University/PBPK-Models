@@ -49,3 +49,6 @@
 [submodule "Imatinib-DDI-Model"]
 	path = Imatinib-DDI-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Imatinib-DDI-Model
+[submodule "Dasatinib-Model"]
+	path = Dasatinib-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Dasatinib-Model

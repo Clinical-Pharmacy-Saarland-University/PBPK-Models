@@ -52,3 +52,6 @@
 [submodule "Dasatinib-Model"]
 	path = Dasatinib-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Dasatinib-Model
+[submodule "Desipramine-DDGI-Model"]
+	path = Desipramine-DDGI-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Desipramine-DDGI-Model

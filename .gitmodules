@@ -55,3 +55,6 @@
 [submodule "Desipramine-DDGI-Model"]
 	path = Desipramine-DDGI-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Desipramine-DDGI-Model
+[submodule "Morphine-M6G-Model"]
+	path = Morphine-M6G-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Morphine-M6G-Model

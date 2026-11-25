@@ -58,3 +58,6 @@
 [submodule "Morphine-M6G-Model"]
 	path = Morphine-M6G-Model
 	url = https://github.com/Clinical-Pharmacy-Saarland-University/Morphine-M6G-Model
+[submodule "Methotrexate-Model"]
+	path = Methotrexate-Model
+	url = https://github.com/Clinical-Pharmacy-Saarland-University/Methotrexate-Model
